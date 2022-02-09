@@ -1,7 +1,7 @@
 package com.redsocial.dominio.mascota;
 
 import com.redsocial.dominio.usuario.Usuario;
-
+//prueba
 public class Mascota {
 
     private int id;
